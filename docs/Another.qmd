@@ -1,9 +1,0 @@
----
-title: "Other"
----
-
-About this site
-
-```{r}
-1 + 1
-```
