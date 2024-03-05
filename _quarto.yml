@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Five-tab-website"
@@ -8,6 +9,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Other.qmd
+      - Another.qmd
+      - Almost.qmd
+      - Last.qmd
 
 format:
   html:
