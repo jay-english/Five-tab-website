@@ -7,6 +7,14 @@ This site was designed as a project for a class. Enjoy a random assortment of pi
 ```{}
 ```
 
-Here's a random video of neurons firing synchronously. I'll see if the shortcode works (it might not)
+Here's a random video of neurons firing synchronously. I'll see if the shortcode works (it might not).
+
+<video> pics/PXL_20230614_151213086.mp4</video>
 
 {{< video pics/PXL_20230614_151213086.mp4 >}}
+
+`<video` `width="500px"` `height="500px"` `controls="controls">`
+
+<source src="pics/PXL_20230614_151213086.mp4"/> `/>`
+
+`</video>`
