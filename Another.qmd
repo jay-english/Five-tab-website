@@ -1,9 +1,12 @@
 ---
-title: "Other"
+title: "Another"
 ---
 
-About this site
+Yet another tab. Journey on.
 
-```{r}
-1 + 1
+```{}
 ```
+
+Here is a pretty good looking current step recording I did.\
+\
+![](pics/Good%20Istep%20Pefect.jpg)

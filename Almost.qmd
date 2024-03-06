@@ -1,9 +1,12 @@
 ---
-title: "Last"
+title: "Almost"
 ---
 
-About this site
+This is almost the last tab.
 
-```{r}
-1 + 1
+```{}
 ```
+
+Here is a picture of a neuron I've patched onto.
+
+![](pics/Screenshot%202023-10-18%20000656.png){fig-align="center"}

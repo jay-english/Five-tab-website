@@ -2,8 +2,11 @@
 title: "About"
 ---
 
-About this site
+This site was designed as a project for a class. Enjoy a random assortment of pictures and such.
 
-```{r}
-1 + 1
+```{}
 ```
+
+Here's a random video of neurons firing synchronously. I'll see if the shortcode works (it might not)
+
+{{< video pics/PXL_20230614_151213086.mp4 >}}

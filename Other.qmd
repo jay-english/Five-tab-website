@@ -1,9 +1,12 @@
 ---
-title: "About"
+title: "Other"
 ---
 
-About this site
+This is the other tab. Not that one, though.
 
-```{r}
-1 + 1
+```{}
 ```
+
+Here is the first successful sorting of mixed cell cultures I've done.
+
+![](pics/Triculture%20with%20GFP_APC.jpg){fig-align="center"}

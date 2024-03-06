@@ -1,9 +1,14 @@
 ---
-title: "Another"
+title: "Last"
 ---
 
-About this site
+This is the last tab. Congrats.
 
-```{r}
-1 + 1
+```{}
 ```
+
+Here is some homeostatic plasticity experiments I performed.
+
+![Spontaneous postsynaptic currents after 48 hours TTX silencing](pics/C2320b%20TTX%20EXP.jpg){fig-align="center"}
+
+![Spontaneous action potentials after 48 hours TTX silencing](pics/C2320b%20TTX%20EXP%20AP.jpg){fig-align="center"}
